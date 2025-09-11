@@ -30,12 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-
-  <!-- Automation -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/uipath.svg" title="UiPath" alt="UiPath" width="40" height="40"/>&nbsp;
   <!-- <img src="https://learn.microsoft.com/en-us/powerapps/images/common/pa-icon.png" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp; -->
-
-  <!-- DevOps & Monitoring -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
