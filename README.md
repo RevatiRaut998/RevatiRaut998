@@ -20,6 +20,7 @@
 - 🌱 Currently growing my portfolio with **mini projects in JS/TS, Angular, and automation tools**.  
 
 
+
 ### 🛠️ Languages & Tools  
 <p align="center">
   <!-- Frontend -->
@@ -29,10 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  
+
   <!-- Automation -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/uipath.svg" title="UiPath" alt="UiPath" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/PowerApps.png" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Power_Apps.svg" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
 
   <!-- DevOps & Monitoring -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -40,6 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="Kibana" alt="Kibana" width="40" height="40"/>
 </p>
+
 
 
 
