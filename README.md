@@ -22,7 +22,7 @@
 
 
 ### 🛠️ Languages & Tools  
-<p align="center">
+<p >
   <!-- Frontend -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@
 
   <!-- Automation -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/uipath.svg" title="UiPath" alt="UiPath" width="40" height="40"/>&nbsp;
-  <img src="https://learn.microsoft.com/en-us/powerapps/images/common/pa-icon.png" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://learn.microsoft.com/en-us/powerapps/images/common/pa-icon.png" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp; -->
 
   <!-- DevOps & Monitoring -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
