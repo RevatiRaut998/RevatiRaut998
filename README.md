@@ -23,23 +23,24 @@
 ### 🛠️ Languages & Tools  
 <p align="center">
   <!-- Frontend -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
   <!-- Automation -->
-  <img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" title="UiPath" alt="UiPath" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/452/microsoft-powerapps.png" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/uipath/uipath-icon.svg" title="UiPath" alt="UiPath" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/power-apps.png" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
 
-  <!-- DevOps & Others -->
+  <!-- DevOps & Monitoring -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;
 </p>
+
 
 🌿🌿🌿
 
