@@ -33,7 +33,7 @@
 
   <!-- Automation -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/uipath.svg" title="UiPath" alt="UiPath" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Power_Apps.svg" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
+  <img src="https://learn.microsoft.com/en-us/powerapps/images/common/pa-icon.png" title="PowerApps" alt="PowerApps" width="40" height="40"/>&nbsp;
 
   <!-- DevOps & Monitoring -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
