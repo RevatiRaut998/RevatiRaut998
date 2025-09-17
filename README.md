@@ -71,16 +71,17 @@
 
 ### ☕ Connect With Me  
 <p align="center">
-  <a href="https://github.com/RevatiRaut998" alt="GitHub" title="GitHub">
-     <img src="https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=fff"/>
+  <a href="https://github.com/RevatiRaut998" title="GitHub">
+     <img src="https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/revati-raut-223016159/" alt="LinkedIn">
-     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff"/>
+  <a href="https://www.linkedin.com/in/revati-raut-223016159/" title="LinkedIn">
+     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
   </a>
-  <a href="mailto:revatiraut9@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"/>
+  <a href="mailto:revatiraut9@gmail.com" title="Gmail">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
   </a>
 </p>
+
 
 🌿🌿🌿  
 
